@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(90, 227, 97);
+}
+
+th{
+    background-color: rgb(245, 255, 211);
+}
+td{
+    background-color: rgb(231, 165, 59);
+}
+
+form{
+    padding-top: 225px;
+}
+
+table{
+    border: 30px solid rgb(48, 184, 48);
+    border-radius: 50%;
+    
+}
